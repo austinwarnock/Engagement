@@ -1,0 +1,17 @@
+body {
+  background:linear-gradient(rgba(255,255,255,.35), rgba(255,255,255,.35)), url("./gandr-collage (1).jpg");
+  background-size: cover;
+}
+
+.jumbotron {
+  background: none;
+  text-align: center;
+  font-family: 'Bebas Neue', cursive;
+}
+h1 {
+    color: rgb(255, 255, 255);
+    text-shadow: 5px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+    font-size: 200px;
+  }
+
+  
